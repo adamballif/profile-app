@@ -29,6 +29,9 @@
                                     <constraint firstAttribute="height" constant="110" id="Jp5-3R-aMV"/>
                                     <constraint firstAttribute="width" constant="110" id="fRO-QQ-JnH"/>
                                 </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerradius" value="5"/>
+                                </userDefinedRuntimeAttributes>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Devslopes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8Og-Qo-W29">
                                 <rect key="frame" x="118" y="162" width="88" height="26"/>
